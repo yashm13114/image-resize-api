@@ -75,6 +75,3 @@ curl "http://localhost:3000/api/resize?url=https://example.com/image.jpg&width=3
 - [Axios](https://axios-http.com/)
 
 This project is licensed under the MIT License.
-```
-
-Feel free to customize this README further to suit your project's needs.
